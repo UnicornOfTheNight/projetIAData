@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'DDN'
+}
+
+item {
+    id: 2
+    name: 'date_expiration'
+}
+
+item {
+    id: 3
+    name: 'lieu_naissance'
+}
+
+item {
+    id: 4
+    name: 'nationalite'
+}
+
+item {
+    id: 5
+    name: 'nom'
+}
+
+item {
+    id: 6
+    name: 'num_passeport'
+}
+
+item {
+    id: 7
+    name: 'prenom'
+}
+
+item {
+    id: 8
+    name: 'sexe'
+}
